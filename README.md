@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://bangumi.cyou/_next/images/Bangumi.png" alt="Bangumi.cyou" width="200">
+  <img src="https://www.bangumi.cyou/_next/image?url=%2Fimages%2FBangumi.png&w=256&q=75" alt="Bangumi.cyou" width="200">
   <br>Bangumi.cyou<br>
 
 
