@@ -12,7 +12,7 @@ body:
     id: name
     attributes:
       label: 网站名字
-      description: 将会在 README.md 中展示
+      description: 将会在 README.md 和 https://www.bangumi.cyou/websites 中展示
       placeholder: ex. 我的博客
     validations:
       required: true
