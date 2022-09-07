@@ -1,6 +1,6 @@
-name: 2.Request to change information
-description: Select this if you would like to request an change to your information
-labels: ["Change information"]
+name: 2.请求更改信息
+description: 如果你想修改信息请选择这个
+labels: ["修改信息"]
 assignees:
   - RealLanta
 body:

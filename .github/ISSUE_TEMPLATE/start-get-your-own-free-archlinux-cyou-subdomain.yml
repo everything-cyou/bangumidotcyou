@@ -1,6 +1,6 @@
-name: 1.Start get your own free ArchLinux.cyou subdomain
-description: Choose this if you are applying for a free ArchLinux.cyou subdomain for the first time
-labels: ["Applying"]
+name: 1.开始申请您的子域名
+description: 如果您想申请子域名请选择这个
+labels: ["申请"]
 assignees:
   - RealLanta
 body:
