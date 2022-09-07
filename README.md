@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.moegirl.org.cn/common/b/b3/Bangumi.png" alt="ArchLinux.cyou" width="200">
+  <img src="https://bangumi.cyou/images/Bangumi.png" alt="Bangumi.cyou" width="200">
   <br>Bangumi.cyou<br>
 
 
