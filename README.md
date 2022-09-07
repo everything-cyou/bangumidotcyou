@@ -9,7 +9,10 @@
 Bangumi.cyou 是非 Bangumi 官方的公益免费子域名
   </p>
 
+了解更多信息请访问 [Bangumi.cyou](https://bangumi.cyou)
+
 # 网站列表
 [Lanta的Zone](https://lanta.bangumi.cyou)
 
-了解更多信息请访问 [Bangumi.cyou](https://bangumi.cyou)
+[Lanta的图床](https://lantapic.bangumi.cyou)
+

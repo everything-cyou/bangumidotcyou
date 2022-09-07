@@ -6,3 +6,5 @@ date: 2022-09-07
 
 # 网站列表
 [Lanta的Zone](https://lanta.bangumi.cyou)
+
+[Lanta的图床](https://lantapic.bangumi.cyou)
