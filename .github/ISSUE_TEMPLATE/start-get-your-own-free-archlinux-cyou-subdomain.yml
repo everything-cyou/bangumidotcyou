@@ -1,0 +1,71 @@
+name: 1.Start get your own free ArchLinux.cyou subdomain
+description: Choose this if you are applying for a free ArchLinux.cyou subdomain for the first time
+labels: ["Applying"]
+assignees:
+  - RealLanta
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在标题中写上您的网站名字
+  - type: input
+    id: name
+    attributes:
+      label: 网站名字
+      description: 将会在 README.md 中展示
+      placeholder: ex. 我的博客
+    validations:
+      required: true
+  - type: input
+    id: subdomain
+    attributes:
+      label: 您想要什么前缀？
+      description: |
+        例如 xxx.bangumi.cyou
+      placeholder: ex. xxx.bangumi.cyou
+    validations:
+      required: true
+  - type: input
+    id: resolution-type
+    attributes:
+      label: 解析类型
+      description: |
+        支持 A,AAAA,CNAME
+      placeholder: ex. A
+    validations:
+      required: true
+  - type: input
+    id: resolution-content
+    attributes:
+      label: 解析内容
+      description: |
+        支持 IP 或域名(CNAME解析时使用)
+      placeholder: ex. 1.1.1.1 或 your-user-name.github.io
+    validations:
+      required: true
+  - type: input
+    id: cloudflare
+    attributes:
+      label: 你需要开启 Cloudflare CDN 吗？
+      description: |
+        Cloudflare CDN 可以保护您的网站（但是在中国大陆地区会拖慢网站速度）,填写 (y/n)
+      placeholder: ex. yes
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 你是一位 Bangumi 用户吗？
+      description: |
+        请展示您的 Bangumi 的截图
+    validations:
+      required: false
+  - type: checkboxes
+    id: checkagain
+    attributes:
+      label: 警告
+      description: |
+        作为存储库的所有者，您可以完全控制已发布的内容。 但这也意味着发布网站所带来的所有权利和义务仍由您负责。
+      options:
+        - label: 我知道了
+          required: true
