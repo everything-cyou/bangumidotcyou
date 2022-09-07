@@ -12,10 +12,19 @@ body:
     id: name
     attributes:
       label: 网站名字
-      description: 将会在 README.md 和 https://www.bangumi.cyou/websites 中展示
+      description: 将会在 README.md 和 https://www.bangumi.cyou/websites 中展示，您也可以选择不公开
       placeholder: ex. 我的博客
     validations:
       required: true
+  - type: checkboxes
+    id: checkagain
+    attributes:
+      label: 公开我的域名？
+      description: |
+        将会在 README.md 和 https://www.bangumi.cyou/websites 中展示
+      options:
+        - label: 公开
+          required: true
   - type: input
     id: subdomain
     attributes:
