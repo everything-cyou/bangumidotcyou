@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Bangumi.cyou',
     description: 'Bangumi.cyou 是非 Bangumi 官方的公益免费子域名',
-    image: 'https://www.bangumi.cyou/_next/image?url=%2Fimages%2F10586_crt_NL3Z3.jpeg'
+    image: 'https://www.bangumi.cyou/images/10586_crt_NL3Z3.jpeg'
   }
 
   return (
