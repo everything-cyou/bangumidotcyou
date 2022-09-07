@@ -1,7 +1,7 @@
 ---
-type: websites
+type: page
 title: Websites
-date: 2021-03-18
+date: 2022-09-07
 ---
 
 # Websites
