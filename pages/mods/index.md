@@ -9,6 +9,7 @@ Bangumi.cyou 管理组人员展示
 # 管理组人员
 ## Lanta 
 邮箱：lanta@bangumi.cyou
+
 Bangumi：[Lanta](https://bgm.tv/user/717544)
 
 # 加入我们
