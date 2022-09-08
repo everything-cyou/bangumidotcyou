@@ -3,7 +3,10 @@ type: page
 title: 管理组
 date: 2022-09-08
 ---
-# 管理组人员：
+# 管理组
+Bangumi.cyou 管理组人员展示
+
+# 管理组人员
 [Lanta](mailto：lanta@bangumi.cyou)
 
 # 加入我们
