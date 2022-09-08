@@ -4,6 +4,14 @@ labels: ["修改信息"]
 assignees:
   - RealLanta
 body:
+  - type: input
+    id: old-domain
+    attributes:
+      label: 旧域名
+      description: 请在此处填写您的旧域名
+      placeholder: ex. xxx.bangumi.cyou
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |

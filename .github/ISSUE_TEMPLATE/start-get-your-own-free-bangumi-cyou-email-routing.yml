@@ -1,0 +1,45 @@
+name: 开始申请您的Bangumi.cyou 邮箱转发
+description: 如果您想申请邮箱转发请选择这个
+labels: ["申请"]
+assignees:
+  - RealLanta
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在以下表格中补充信息以完成申请
+  - type: input
+    id: custom-addresses
+    attributes:
+      label: 自定义地址
+      description: 例如：用户名@bangumi.cyou 也可以选择任意名字
+      placeholder: ex. husonghua@bangumi.cyou
+    validations:
+      required: true
+  - type: input
+    id: action
+    attributes:
+      label: 转发到的邮箱
+      description: |
+        请填写您想要邮件转发到的另一个邮箱
+      placeholder: ex. husonghua@coolapk.com
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 你是一位 Bangumi 用户吗？
+      description: |
+        请展示您的 Bangumi 的截图
+    validations:
+      required: false
+  - type: checkboxes
+    id: checkagain
+    attributes:
+      label: 服务条款
+      description: |
+        1.我们禁止您的邮件地址带有政治相关人物，如发现将会退回申请请求
+        2.邮箱转发服务由 Cloudflare 提供，我们并不会收取您的任何费用，但是由于服务不受我们管理所以隐私问题我们并不作保证
+      options:
+        - label: 我知道了
+          required: true

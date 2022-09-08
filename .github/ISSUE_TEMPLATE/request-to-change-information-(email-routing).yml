@@ -1,0 +1,35 @@
+name: 2.请求更改信息(Bangumi.cyou 邮箱转发)
+description: 如果你想修改邮件转发的信息请选择这个
+labels: ["修改信息"]
+assignees:
+  - RealLanta
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在以下表格中补充信息以完成申请
+  - type: input
+    id: old-addresses
+    attributes:
+      label: 旧地址
+      description: 请在此处填写您的旧地址
+      placeholder: ex. husonghua@bangumi.cyou
+    validations:
+      required: true
+  - type: input
+    id: custom-addresses
+    attributes:
+      label: 自定义地址
+      description: 例如：用户名@bangumi.cyou 也可以选择任意名字
+      placeholder: ex. husonghua@bangumi.cyou
+    validations:
+      required: true
+  - type: input
+    id: action
+    attributes:
+      label: 转发到的邮箱
+      description: |
+        请填写您想要邮件转发到的另一个邮箱
+      placeholder: ex. husonghua@coolapk.com
+    validations:
+      required: true
