@@ -1,7 +1,7 @@
 ---
 type: page
 title: 管理组
-date: 2022-09-08
+date: 2029-09-08
 ---
 # 管理组
 Bangumi.cyou 管理组人员展示
