@@ -17,7 +17,7 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: checkagain
+    id: public
     attributes:
       label: 公开我的域名？
       description: |
