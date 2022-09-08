@@ -7,7 +7,9 @@ date: 2022-09-08
 Bangumi.cyou 管理组人员展示
 
 # 管理组人员
-[Lanta](mailto：lanta@bangumi.cyou)
+## Lanta 
+邮箱：lanta@bangumi.cyou
+Bangumi：[Lanta](https://bgm.tv/user/717544)
 
 # 加入我们
-请邮箱联系 [Lanta](mailto：lanta@bangumi.cyou) 或在 Bangumi 联系 [Lanta](https://bgm.tv/user/717544)
+请邮箱联系 Lanta （lanta@bangumi.cyou） 或在 Bangumi 联系 [Lanta](https://bgm.tv/user/717544)
