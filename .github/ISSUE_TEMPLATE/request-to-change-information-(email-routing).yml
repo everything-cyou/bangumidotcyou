@@ -1,5 +1,5 @@
 name: 2.请求更改信息(Bangumi.cyou 邮箱转发)
-description: 如果你想修改邮件转发的信息请选择这个
+description: 如果你想修改邮件转发的信息请选择这个，我们将会在每星期六、日内通过申请
 labels: ["修改信息"]
 assignees:
   - RealLanta
