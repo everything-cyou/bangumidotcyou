@@ -13,5 +13,5 @@ Bangumi.cyou 是非 Bangumi 官方的公益免费子域名
 
 # 网站列表
 [Lanta的Zone](https://lanta.bangumi.cyou)
-
+[Niute Fony](niute.bangumi.cyou)
 
