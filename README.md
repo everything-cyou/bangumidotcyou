@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.bangumi.cyou/_next/image?url=%2Fimages%2FBangumi.png&w=256&q=75" alt="Bangumi.cyou" width="200">
+  <img src="https://bangumi.cyou/styles/magic2/basic/publicLogoUrl.png" alt="Bangumi.cyou" width="200">
   <br>Bangumi.cyou<br>
 
 
@@ -9,7 +9,7 @@
 Bangumi.cyou 是非 Bangumi 官方的公益免费子域名
   </p>
 
-了解更多信息请访问 [Bangumi.cyou](https://bangumi.cyou)
+了解更多信息请访问 [Bangumi.cyou](https://bangumi.cyou/index.php?help/bangumidotcyou/)
 
 # 网站列表
 [Lanta的Zone](https://lanta.bangumi.cyou)
